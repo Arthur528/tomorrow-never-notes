@@ -11,6 +11,9 @@
 ## Description
 Your challenge is to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
+![Screenshot_20221102_032605](https://user-images.githubusercontent.com/113845043/199614377-7f7d285d-6c1b-4d00-9938-13db50791a2d.png)
+
+
 ## Instructions
 <b>User Story:</b><br />
 AS A small business owner
